@@ -18,7 +18,7 @@ Sales Distribution by State: The dashboard visually depicts which states are lea
 
 Make and Model Insights:
     · TESLA, NISSAN, and CHEVROLET dominate the market.
-    · The Model Y stands out as a popular choice. 🚀
+    · The Model Y stands out as a popular choice. 
 
 In this Dashboard i have used different kind of Visualization tools/charts.
     · Donut Chart
