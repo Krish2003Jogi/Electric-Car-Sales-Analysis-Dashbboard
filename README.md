@@ -28,4 +28,4 @@ In this Dashboard i have used different kind of Visualization tools/charts.
     · Tree Map
     · Clustered Bar Chart
 
-link for Dashboard: https://app.powerbi.com/view?r=eyJrIjoiMDVmYTYxMGItYmIzMS00ODNkLThlM2QtNTUxYWM0MTIzNmIxIiwidCI6ImQxZjE0MzQ4LWYxYjUtNGEwOS1hYzk5LTdlYmYyMTNjYmM4MSIsImMiOjEwfQ%3D%3D
+link for Dashboard: https://app.powerbi.com/view?r=eyJrIjoiMDQ4NmE0NDgtN2UyNC00NDliLTk5NjItNGI1OGRmYzRkOWNkIiwidCI6ImQxZjE0MzQ4LWYxYjUtNGEwOS1hYzk5LTdlYmYyMTNjYmM4MSIsImMiOjEwfQ%3D%3D
